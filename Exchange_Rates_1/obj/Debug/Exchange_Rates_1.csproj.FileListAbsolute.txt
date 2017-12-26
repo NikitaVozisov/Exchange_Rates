@@ -1,0 +1,19 @@
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.exe.config
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.exe
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.pdb
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.Form1.resources
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.exe
+c:\users\nikita\documents\visual studio 2013\Projects\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.pdb
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.exe.config
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.exe
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\bin\Debug\Exchange_Rates_1.pdb
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.csprojResolveAssemblyReference.cache
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.Form1.resources
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.Properties.Resources.resources
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.csproj.GenerateResource.Cache
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.csproj.CoreCompileInputs.cache
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.exe
+C:\Users\Никита\YandexDisk\Exchange_Rates_1\Exchange_Rates_1\obj\Debug\Exchange_Rates_1.pdb
